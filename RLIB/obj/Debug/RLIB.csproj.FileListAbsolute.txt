@@ -1,0 +1,15 @@
+C:\Users\reynaldo\Desktop\ProyekPCS\RLIB\bin\Debug\RLIB.dll
+C:\Users\reynaldo\Desktop\ProyekPCS\RLIB\bin\Debug\RLIB.pdb
+C:\Users\reynaldo\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.csprojResolveAssemblyReference.cache
+C:\Users\reynaldo\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.dll
+C:\Users\reynaldo\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.pdb
+C:\Users\HP\Desktop\ProyekPCS\RLIB\bin\Debug\RLIB.dll
+C:\Users\HP\Desktop\ProyekPCS\RLIB\bin\Debug\RLIB.pdb
+C:\Users\HP\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.dll
+C:\Users\HP\Desktop\ProyekPCS\RLIB\obj\Debug\RLIB.pdb
+C:\Users\RICARDO\Desktop\gmmProject\Projek_PCS\ProyekPCS\RLIB\obj\Debug\RLIB.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO\Desktop\gmmProject\Projek_PCS\ProyekPCS\RLIB\obj\Debug\RLIB.dll
+C:\Users\RICARDO\Desktop\gmmProject\Projek_PCS\ProyekPCS\RLIB\bin\Debug\RLIB.dll
+C:\Users\RICARDO\Desktop\gmmProject\Projek_PCS\ProyekPCS\RLIB\bin\Debug\RLIB.pdb
+C:\Users\RICARDO\Desktop\gmmProject\Projek_PCS\ProyekPCS\RLIB\obj\Debug\RLIB.pdb
