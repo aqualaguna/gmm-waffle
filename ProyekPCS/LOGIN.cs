@@ -43,7 +43,7 @@ namespace ProyekPCS
 
         private void LOGIN_Load(object sender, EventArgs e)
         {
-            mysqltestClass m = new mysqltestClass();
+            //mysqltestClass m = new mysqltestClass();
         }
     }
 }
